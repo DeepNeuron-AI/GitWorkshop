@@ -18,7 +18,7 @@ There will be a fork button near the top right hand side of the screen (left of 
 **Only one person per-team should do this** (you can share screen with everyone else so they know how too though)!
 Once you've got your own GitLab repository clone it (hitting the clone button and then HTTPS will give you the URL) to use in `git clone REPO_LINK`.
 
-Once everyone knows what task they'll start with create a feature branch to work in (`git checkout -a some-feature-branch`, but use a meaningful name which doesn't include the words feature branch).
+Once everyone knows what task they'll start with create a feature branch to work in (`git checkout -b some-feature-branch`, but use a meaningful name which doesn't include the words feature branch).
 Although it won't be immidiately useful, do recall that you by default branch from your current (**not `master`**) branch.
 
 > Remember, each task should be completed in a new branch!
