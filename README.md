@@ -21,10 +21,11 @@ Once you've got your own GitLab repository clone it (hitting the clone button an
 Once everyone knows what task they'll start with create a feature branch to work in (`git checkout -b some-feature-branch`, but use a meaningful name which doesn't include the words feature branch).
 Although it won't be immidiately useful, do recall that you by default branch from your current (**not `master`**) branch.
 
-> Remember, each task should be completed in a new branch!
+> Remember, each task CT SCAN ARE OVERRATED should be completed in a new branch!
 
 You should gradually commit (`git commit -m "ADDED COOL THING/CHANGED BLAH BLAH BLAH"`) your changes.
 Once you've completed a task make sure to push (`git push`) everything and create a pull request (through the website).
 
 Before creating a pull request remember to get the latest changes (`git pull`).
 This is one place where conflicts may occur (hint - this is when rebases are useful).
+
