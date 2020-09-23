@@ -36,7 +36,7 @@ Project members:
 * Jared - Project manager
 * Nidhi
 * Sahil
-* Rebekah
+
 
 # Requirements
 * Python 3
