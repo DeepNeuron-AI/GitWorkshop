@@ -8,3 +8,5 @@
 
 
 The second project is making a digital mental health helper (a chatbot:robot:) with NLP and Amazon Lex.
+
+![image](https://i.imgflip.com/lrihf.jpg)
