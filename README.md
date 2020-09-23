@@ -28,3 +28,5 @@ Once you've completed a task make sure to push (`git push`) everything and creat
 
 Before creating a pull request remember to get the latest changes (`git pull`).
 This is one place where conflicts may occur (hint - this is when rebases are useful).
+
+Since the start of the project season reinforcement learning team has gone on a journey, through both theory and practical applications. 
