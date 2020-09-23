@@ -29,6 +29,14 @@ Once you've completed a task make sure to push (`git push`) everything and creat
 Before creating a pull request remember to get the latest changes (`git pull`).
 This is one place where conflicts may occur (hint - this is when rebases are useful).
 
+# Contributors
+This project is done in collaboration by the members of the Monash DeepNeuron Microfluidics team. 
+
+Project members:
+* Jared - Project manager
+* Nidhi
+* Sahil
+* Rebekah
 
 # Requirements
 * Python 3
