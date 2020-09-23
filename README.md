@@ -30,5 +30,9 @@ Before creating a pull request remember to get the latest changes (`git pull`).
 This is one place where conflicts may occur (hint - this is when rebases are useful).
 
 
-Task:1
-We are the dynamic balancing team from DeepNeuron. We are a reinforcement focused
+Who are we
+We are the dynamic balancing team from DeepNeuron. We are a reinforcement learning focused group working towards the end goal of 
+having an AI dynamically balanced to always provide a reasonable challenge to the player.  Going forward this could be implemented by
+game developers to help keep players engaged in the growing games market with a perfect challenge provided.
+
+
