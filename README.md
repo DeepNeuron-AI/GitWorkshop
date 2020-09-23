@@ -28,3 +28,12 @@ Once you've completed a task make sure to push (`git push`) everything and creat
 
 Before creating a pull request remember to get the latest changes (`git pull`).
 This is one place where conflicts may occur (hint - this is when rebases are useful).
+
+# Project Timeline
+1. Get DDQN to work
+2. Implement A2C
+3. Implement PPO
+4. Teach my dog to sit using RL algorithms
+5. Teach my car to pick-up KFC using RL algorithms
+6. Teach brain to live a long and happy life with RL algorithms
+7. Ascend to a higher state of being
